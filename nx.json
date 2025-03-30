@@ -27,8 +27,7 @@
           "buildDepsName": "build-deps",
           "watchDepsName": "watch-deps"
         }
-      },
-      "exclude": ["libs/test-lib/*"]
+      }
     },
     {
       "plugin": "@nx/webpack/plugin",
